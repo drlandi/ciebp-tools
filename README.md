@@ -36,7 +36,6 @@ source ciebp_env/bin/activate
 Step 2: Executing the Master Pipeline
 Run the orchestrator script:
 
-Bash
 python3 vision_test.py
 What the system does autonomously during this step:
 
